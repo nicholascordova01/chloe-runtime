@@ -1,0 +1,26 @@
+MIT-PLUS License
+
+Copyright (c) 2025 Nicholas Cordova. All rights reserved.
+
+Permission is hereby granted, to any person obtaining a copy
+of this software (“the Software”), to run the Software for any purpose,
+and to distribute compiled binaries, subject to the following conditions:
+
+1. The above copyright notice and this permission notice
+   shall be included in all copies or substantial portions,
+   **but only in compiled or minified form**.
+
+2. **No Reverse Engineering.** The recipient may not decompile,
+   disassemble, or otherwise attempt to derive the source code
+   of the Software. Any permitted distribution must be either
+   the original source code (in which case the full MIT license
+   applies) or compiled binaries under this MIT-Plus license.
+
+3. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+4. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
+   ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+   OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
